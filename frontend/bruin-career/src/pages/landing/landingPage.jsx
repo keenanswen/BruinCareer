@@ -60,7 +60,7 @@ const Landing = () => {
         <div className={classes.mainimage} style={styles}>
           <div className={classes.infor}>
             <Typography variant="h3" align="justify">
-              <b>BruninCareer</b>
+              <b>BruinCareer</b>
             </Typography>
             <Typography variant="h4" align="left">
               Take your resume to the next level

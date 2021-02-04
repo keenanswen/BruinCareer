@@ -24,7 +24,7 @@ dream job.
 
 + First, clone the repository onto your local device.
 
-+ Go to /frontend folder, then run "npm install" 
++ Go to /frontend/bruin-career folder, then run "npm install" 
 
   ==> run "npm start" to start the frontend on your localhost
 
